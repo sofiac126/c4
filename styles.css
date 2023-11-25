@@ -1,0 +1,32 @@
+/* Styles for IDs */
+#main-heading {
+    color: #FF0000; 
+    font-size: 24px;
+}
+
+#sub-heading {
+    color: rgb(0, 0, 255); 
+    font-size: 18px;
+}
+
+#unordered-list {
+    list-style: square; /* Custom list style for unordered list */
+    color: #FF0000; 
+}
+
+#ordered-list {
+    list-style: decimal; /* Custom list style for ordered list */
+    color: rgb(0, 0, 255); 
+}
+
+#custom-table {
+    border: 2px solid #000000; 
+}
+
+#header1 {
+    background-color: #FFA07A; 
+}
+
+#header2 {
+    background-color: rgb(255, 160, 122); 
+}
